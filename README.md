@@ -41,7 +41,6 @@ prolog_ct1/
 │   └── 12_n_queens.pl
 ├── tests/
 │   └── test_practicals.pl
-├── .gitignore
 └── README.md
 ```
 
